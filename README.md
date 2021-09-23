@@ -1,4 +1,4 @@
-# netlify
+# Netlify
 > Deployment to Netlify.
 
 * Developer: Tom Hell
